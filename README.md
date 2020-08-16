@@ -1,0 +1,2 @@
+# Lector_Biblico_Caap_Chile_2020
+Lectura biblica
