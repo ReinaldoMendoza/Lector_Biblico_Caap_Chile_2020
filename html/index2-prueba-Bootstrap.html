@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+   <head> <!--head es el encabezado de la ventana-->
+    <title>Inicio Lector Biblico - CAAP CHILE</title>
+     <meta charset="utf8">
+     <link href="css/estilos.css" rel="stylesheet">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap-flex.css">
+   
+
+    <!-- Scroll -->
+
+    <script src="js/smooth-scroll.polyfills.min.js"></script>
+    <script src="js/smooth-scroll.min.js"></script>
+    <script>
+      smoothScroll.init({
+      selector: '[data-scroll]', // Selector for links (must be a class, ID, data attribute, or element tag)
+      selectorHeader: null, // Selector for fixed headers (must be a valid CSS selector) [optional]
+      speed: 2000, // Integer. How fast to complete the scroll in milliseconds
+      easing: 'easeInOutCubic', // Easing pattern to use
+      offset: 0, // Integer. How far to offset the scrolling anchor location in pixels
+      callback: function ( anchor, toggle ) {} // Function to run after scrolling
+      });
+    </script>
+
+    </head>    
+   
+   <body>
+     <header>
+         <h1>Primer Titulo</h1>
+              <nav id="menu1">
+                 <ul>
+                    <li id="li1"><a class="format-class-2" href="index.html#pagina1">INICIO</a></li>
+                    <li id="li2"><a class="format-class-2" href="index.html#pagina2">SEGUNDA PAGINA</a></li>
+                    <li id="li3"><a class="format-class-2" href="index.html#pagina3">TERCERA PAGINA</a></li>
+                    <li id="li4"><a class="format-class-2" href="index.html#pagina4">CUARTA PAGINA</a></li>
+                    <li id="li5"><a class="format-class-2" href="index.html#pagina4">QUINTA PAGINA</a></li>
+                    
+                 </ul>
+              </nav>  <!--Nav es un menu de navegacion-->
+              <nav id="format-nav">
+                <section> <!--Separa por secciones-->
+                    <article class="format-articule"><h1>Nuevo Testamento</h1><a class="format-class-1" href="../exportar a excel de php/html/nuevotestamento.html"><h5>►►►IR A NT</h5></a></article> <!--article da caracteristicas a un articluo-->
+                    <article class="format-articule"><h1>Antiguo Testamento</h1><a class="format-class-1" href="../exportar a excel de php/html/antiguotestamento.html"><h5>►►►IR A AT</h5></a></article>
+                    <article class="format-articule"><h1>Evangelios</h1><a class="format-class-1" href="../exportar a excel de php/html/evangelios.html"><h5>►►►IR A EVAN.</h5></a></article>
+                    <article class="format-articule"><h1>Libros Poeticos</h1><a class="format-class-1" href="../exportar a excel de php/html/librosPoeticos.html"><h5>►►►IR A POET.</h5></a></article>
+                    <article class="format-articule"><h1>Libros Profeticos</h1><a class="format-class-1" href="../exportar a excel de php/html/librosProfeticos.html"><h5>►►►IR A PROF.</h5></a></article>
+               </section>
+              </nav>
+     </header> <!--header es el encabezado de mi pagina-->    
+   
+
+      <h1 id="pagina1">Titulo Interno</h1>
+      
+      <a href="#">Enlace a #</a><br>
+      <a href="https://www.youtube.com/watch?v=svwk5o4Ud5I">Enlace a YouTube</a>
+      <br>
+      <a href="index.html#pagina2">Otra Pagina</a>
+      <br>
+     <img src="../exportar a excel de php/jpg/imagesFJ7BSB6V.jpg"  alt="imagen caap" id="Logo-Ejemplo" class="logo-cabecera">
+      <p>Parrafo 1 Parrafo 1 Parrafo 1 Parrafo 1 Parrafo 1 </p>
+
+      
+     <ul><!-- Lista -->
+        <li>Elemento 1 (li)
+            <ol> <!--OL numera las listas y puede reemplazar a LI-->
+              <li>Elemento 1.1</li>
+              <li>Elemento 1.2</li>
+              <li>Elemento 1.3</li>
+            </ul>
+          </li>   
+        <li>Elemento 2 (li)
+           <ul> <!-- Sub Lista-->
+             <li>Elemento 2.1</li>
+             <li>Elemento 2.2</li>
+             <li>Elemento 2.3</li>
+           </ul>
+        </li>
+          <li>Elemento 3 (li)</li> 
+          <li>Elemento 4 (li)</li>
+     </ul>
+
+     
+
+ <h1 id="pagina2">Segunda Pagina
+  <a href="html/librosPoeticos.html">Ir a Libros Poeticos</a>
+  
+  <p>Parrafo 1 Parrafo 1 Parrafo 1 Parrafo 1 Parrafo 1 
+  Parrafo 2 Parrafo 2 Parrafo 2 Parrafo 2 Parrafo 2</p>
+
+ </h1>    
+
+
+ <h1 id="pagina3">Tercera Pagina
+  <p>Parrafo 1 Parrafo 1 Parrafo 1 Parrafo 1 Parrafo 1 
+  Parrafo 2 Parrafo 2 Parrafo 2 Parrafo 2 Parrafo 2</p>
+
+ </h1>    
+
+ <h1 id="pagina4">Cuarta Pagina
+  <p>Parrafo 1 Parrafo 1 Parrafo 1 Parrafo 1 Parrafo 1 
+  Parrafo 2 Parrafo 2 Parrafo 2 Parrafo 2 Parrafo 2</p>
+ </h1>    
+    <footer> <!--footer es el pie de pagina-->
+      <ul>
+        <li>PRUEBA SIMBOLOGIA</li>
+           <ol><li><a href="../exportar a excel de php/html/romaprogramas.html">&COPY; ROMA PROGRAMADORES 2020</a></li>
+              <li>&#169</li>
+              <li>&#170</li>
+              <li>&#171</li>
+              <li>&reg</li>
+         </ol>
+       </ul>
+
+    </footer>
+    <aside>
+      <a href="html/librosPoeticos.html"></a>
+      <a href="html/romaprogramas.html"></a>
+     </aside>
+
+
+
+    </body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
