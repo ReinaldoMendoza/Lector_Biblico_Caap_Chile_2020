@@ -19,7 +19,7 @@ ul {padding: 0 0 ; margin: 0 00; display: inline-flex ;} /*esto quita los margen
     background-color:black;padding: 3 5 3 2 ;
     width: 860px;display: inline-flex;} /* . este simbolo relaciona a las CLASS*/
 
-#menu1{background-color: black;height: 50px;text-align: center;padding-top: 25px;}
+#menu1{background-color: black;height: 10px;text-align: center;padding-top: 5px;}
 
 .format-class-2{text-decoration: none; color:rgb(224, 216, 98);}
 
