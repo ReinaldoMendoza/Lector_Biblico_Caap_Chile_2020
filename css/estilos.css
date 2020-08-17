@@ -14,7 +14,7 @@ ul {padding: 0 0 ; margin: 0 00; display: inline-flex ;} /*esto quita los margen
 #ul202 {border-radius:20px;border: white solid; width: 600px; height: 600px;padding: 17px;margin: 17px;list-style-type: none;}
 #ul201-1, #ul201-2 {width: 300px; list-style-type:none;}
 #ul202-1, #ul202-2 {width: 250px; list-style-type:none;}
-.format-articule{font-size: 30px;display: inline-flex;background-color:black;margin-right: 15px;margin: 5px 5px;padding: 5px 5px;border: blue solid;width: 150px;height: 410px ;border-radius:15px;}
+.format-articule{font-size: 30px;display: inline-flex;background-color:black;margin-right: 15px;margin: 5px 5px;padding: 5px 5px;border: blue solid;width: 400px;height: 150px ;border-radius:15px;}
 img {width: 120px;height: 120px;border: rgb(153, 148, 148);}
 #pagina1 {color:rgb(153, 148, 148);width: 250px;} /* #este simbolo es ID*/
 body {background-color: #030327; color: rgb(224, 216, 98); background-attachment: fixed; background-image : "fondo_lila_seda.jpg"; background-position: right center;padding-top: 0px;padding-left: 0px;}
