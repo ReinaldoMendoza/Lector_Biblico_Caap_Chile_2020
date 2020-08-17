@@ -16,7 +16,7 @@ ul {padding: 0 0 ; margin: 0 00; display: inline-flex ;} /*esto quita los margen
 .format-articule{display: inline-flex;background-color:black;margin-right: 15px;margin: 5px 5px;padding: 5px 5px;border: blue solid;width: 210px;border-radius:15px;}
 img {width: 120px;height: 120px;border: rgb(153, 148, 148);}
 #pagina1 {color:rgb(153, 148, 148);width: 250px;} /* #este simbolo es ID*/
-body {background-color: #030327; color: rgb(224, 216, 98); background-attachment: fixed; background-image : "fondo_lila_seda.jpg"; background-position: right center;}
+body {background-color: #030327; color: rgb(224, 216, 98); background-attachment: fixed; background-image : "fondo_lila_seda.jpg"; background-position: right center;padding-top: 0px;padding-left: 0px;}
 #format-titulos-texto {text-decoration: underline; font-size: small; color: red;}
 #irinicio {color: white;margin: 30px;}
 #format-div-1 , #format-div-2 {padding: 10px;margin: 30px;border: white solid; width:400px;}
