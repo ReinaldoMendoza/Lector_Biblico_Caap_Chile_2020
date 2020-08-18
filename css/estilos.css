@@ -27,4 +27,4 @@ body {background-color: #030327; color: rgb(224, 216, 98); background-attachment
 #format-titulo-index {font-family: 'Times New Roman', Times, serif;text-align: center center;}
 #ol77 {border: green solid;}
 .format-text-libro {color: red;}
-#format-ol-at-1, #format-ol-at-2, #format-ol-at-3 {height: 30px;}
+#format-ol-at-1, #format-ol-at-2, #format-ol-at-3 {width: 30px;}
