@@ -14,17 +14,3 @@ ul {relleno: 0 0; margen: 0 00; display: inline-flex;} / * esto quita los margen
 # ul202 { radio del borde : 20 px ; borde : sólido blanco; ancho :  600 px ; altura :  600 px ; relleno :  17 px ; margen :  17 px ; tipo de estilo de lista : ninguno;}
 # ul201-1 ,  # ul201-2 { ancho :  300 px ; tipo de estilo de lista : ninguno;}
 # ul202-1 ,  # ul202-2 { ancho :  250 px ; tipo de estilo de lista : ninguno;}
-. format-articule { tamaño de fuente :  30 px ; pantalla : inline-flex; color de fondo : negro; margen derecho :  15 px ; margen :  5 px  5 px ; relleno :  5 px  5 px ; borde : azul sólido; ancho :  400 px ; altura :  150 px ; radio del borde : 15 px ;}
-img { ancho :  120 px ; altura :  120 px ; borde :  rgb ( 153 ,  148 ,  148 );}
-# pagina1 { color : rgb ( 153 ,  148 ,  148 ); ancho :  250 px ;} / * #este simbolo es ID * /
-cuerpo { color de fondo :  # 030327 ; color :  rgb ( 224 ,  216 ,  98 ); archivo adjunto de fondo : fijo; imagen de fondo  :  "fondo_lila_seda.jpg" ; background-position :  derecha  centro ; padding - a p : 0px; padding - izquierda : 0px;}
-# format-titulos-texto { decoración de texto : subrayado; tamaño de fuente : pequeño; color : rojo;}
-# irinicio { color : blanco; margen :  30 px ;}
-# format-div-1  ,  # format-div-2 { relleno :  10 px ; margen :  30 px ; borde : sólido blanco; ancho : 400 px ;}
-# format-div-5 { margin-top :  700 px ;}
-# fondo-index { ancho :  35 % ; altura : 35 % ; margen izquierdo : 450 px ;}
-# bodyindex { background-color  :  black ; padding - to p : 0px; padding - left : 0px;}
-# format-titulo-index { familia de fuentes :  'Times New Roman' , Times , serif; alinear texto : centro centro;}
-# ol77 { borde : verde sólido;}
-. format-text-libro { color : red;}
-# formato-ol-en-1 ,  # formato-ol-en-2 ,  # formato-ol-en-3 { ancho :  5 px ;}
