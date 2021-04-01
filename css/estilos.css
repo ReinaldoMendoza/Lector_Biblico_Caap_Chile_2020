@@ -10,10 +10,10 @@ ul {relleno: 0 0; margen: 0 00; display: inline-flex;} / * esto quita los margen
 # menu1 { color de fondo : negro; altura :  30 px ; ancho :  2100 px ; alineación de texto : centro; padding-top :  0 px ;}
 . format-class-2 { decoración de texto : ninguna; color : rgb ( 224 ,  216 ,  98 );}
 # format-nav { color de fondo : # 030327 ; display : inline-block;}
-# ul201 { radio del borde : 20 px ; borde : sólido blanco; ancho :  600 px ; altura :  600 px ; relleno :  17 px ; margen :  17 px ; tipo de estilo de lista : ninguno;}
-# ul202 { radio del borde : 20 px ; borde : sólido blanco; ancho :  600 px ; altura :  600 px ; relleno :  17 px ; margen :  17 px ; tipo de estilo de lista : ninguno;}
-# ul201-1 ,  # ul201-2 { ancho :  300 px ; tipo de estilo de lista : ninguno;}
-# ul202-1 ,  # ul202-2 { ancho :  250 px ; tipo de estilo de lista : ninguno;}
+# ul201 { radio del borde : 20 px ; borde : solido blanco; ancho :  600 px ; altura :  600 px ; relleno :  17 px ; margen :  17 px ; tipo de estilo de lista : ninguno;}
+# ul202 { radio del borde : 20 px ; borde : solido blanco; ancho :  600 px ; altura :  600 px ; relleno :  17 px ; margen :  17 px ; tipo de estilo de lista : ninguno;}
+# ul201-1 ,  # ul201-2 { ancho :  350 px ; tipo de estilo de lista : ninguno;}
+# ul202-1 ,  # ul202-2 { ancho :  350 px ; tipo de estilo de lista : ninguno;}
 . format-articule { tamaño de fuente :  30 px ; pantalla : inline-flex; color de fondo : negro; margen derecho :  15 px ; margen :  5 px  5 px ; relleno :  5 px  5 px ; borde : azul sólido; ancho :  400 px ; altura :  150 px ; radio del borde : 15 px ;}
 img { ancho :  120 px ; altura :  120 px ; borde :  rgb ( 153 ,  148 ,  148 );}
 # pagina1 { color : rgb ( 153 ,  148 ,  148 ); ancho :  250 px ;} / * #este simbolo es ID * /
