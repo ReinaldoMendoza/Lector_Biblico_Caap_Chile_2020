@@ -1,5 +1,5 @@
 *{font-family: sans-serif;}
-a {color: red;} /*esto cambia el color en los enlaces*/
+a {color: red;} /*esto cambia el color en los enlaces*
 a:hover{text-decoration: underline;font-size: 15px;color: green;}
 ul {padding: 0 0 ; margin: 0 00; display: inline-flex ;} /*esto quita los margenes interior y exterior de las listas ul*/
 #li0 {background: white; color: black; list-style-type: none;text-align: center;font-weight: lighter ; font-size: 18px;width: 200px;margin-top: 0px;}
@@ -28,3 +28,4 @@ body {background-color: #030327; color: rgb(224, 216, 98); background-attachment
 #ol77 {border: green solid;}
 .format-text-libro {color: red;}
 #format-ol-at-1, #format-ol-at-2, #format-ol-at-3 {width: 5px;}
+#ul201-1 { font-size:30};
