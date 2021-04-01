@@ -1,30 +1,27 @@
-*{font-family: sans-serif;}
-a {color: red;} /*esto cambia el color en los enlaces*
-a:hover{text-decoration: underline;font-size: 15px;color: green;}
-ul {padding: 0 0 ; margin: 0 00; display: inline-flex ;} /*esto quita los margenes interior y exterior de las listas ul*/
-#li0 {background: white; color: black; list-style-type: none;text-align: center;font-weight: lighter ; font-size: 18px;width: 200px;margin-top: 0px;}
-#li10:hover{color:red; }
-#li1, #li2 , #li3 , #li4 , #li5 {padding-left: 50px;margin-left: 50px;margin-right: 30px; list-style-type: none;width: 155px; height: 31px;border-left: rgb(224, 216, 98) solid;}
-.format-class-1{font-size : 200px;text-decoration: none; color:red; background-color:black;padding: 3 5 3 2 ; width: 860px;display: inline-flex;} /* . este simbolo son CLASS*/
-.format-class-10{font-size : 30px;}
-#menu1{background-color: black;height: 30px;width: 2100px; text-align: center;padding-top: 0px;}
-.format-class-2{text-decoration: none; color:rgb(224, 216, 98);}
-#format-nav{background-color:#030327;display: inline-block;}
-#ul201 {border-radius:20px;border: white solid; width: 600px; height: 600px;padding: 17px;margin: 17px;list-style-type: none;}
-#ul202 {border-radius:20px;border: white solid; width: 600px; height: 600px;padding: 17px;margin: 17px;list-style-type: none;}
-#ul201-1, #ul201-2 {width: 300px; list-style-type:none;}
-#ul202-1, #ul202-2 {width: 250px; list-style-type:none;}
-.format-articule{font-size: 30px;display: inline-flex;background-color:black;margin-right: 15px;margin: 5px 5px;padding: 5px 5px;border: blue solid;width: 400px;height: 150px ;border-radius:15px;}
-img {width: 120px;height: 120px;border: rgb(153, 148, 148);}
-#pagina1 {color:rgb(153, 148, 148);width: 250px;} /* #este simbolo es ID*/
-body {background-color: #030327; color: rgb(224, 216, 98); background-attachment: fixed; background-image : "fondo_lila_seda.jpg"; background-position: right center;padding-top: 0px;padding-left: 0px;}
-#format-titulos-texto {text-decoration: underline; font-size: small; color: red;}
-#irinicio {color: white;margin: 30px;}
-#format-div-1 , #format-div-2 {padding: 10px;margin: 30px;border: white solid; width:400px;}
-#format-div-5 {margin-top: 700px;}
-#fondo-index {width: 35%;height:35%;margin-left:450px;}
-#bodyindex {background-color : black;padding-top: 0px;padding-left: 0px;}
-#format-titulo-index {font-family: 'Times New Roman', Times, serif;text-align: center center;}
-#ol77 {border: green solid;}
-.format-text-libro {color: red;}
-#format-ol-at-1, #format-ol-at-2, #format-ol-at-3 {width: 5px;}
+* { familia de fuentes : sans-serif;}
+a { color : red;} / * esto cambia el color en los enlaces * /
+a : hover { text-decoration : underline; tamaño de fuente :  12 px ; color : verde;}
+a : hover { text-decoration : underline; tamaño de fuente :  15 px ; color : verde;}
+ul { relleno :  0  0 ; margen :  0  00 ; display : inline-flex;} / * esto quita los margenes interior y exterior de las listas ul * /
+# li0 { fondo : blanco; color : negro; tipo de estilo de lista : ninguno; alineación de texto : centro; font-weight : más ligero; tamaño de fuente :  18 px ; ancho :  200 px ; margen superior :  0 px ;}
+# li10 : hover { color : red; }
+# li1 ,  # li2  ,  # li3  ,  # li4  ,  # li5 { padding-left :  50 px ; margen izquierdo :  50 px ; margen derecho :  30 px ; tipo de estilo de lista : ninguno; ancho :  155 px ; altura :  31 px ; borde izquierdo :  rgb ( 224 ,  216 ,  98 ) sólido;}
+. format-class-1 { tamaño de fuente  : 200px; texto - dec o ación :  ninguno ; color : rojo ; color de fondo : negro ; relleno : 3 5 3 2; ancho : 860px; pantalla :  inline-flex ;} / *. este simbolo son CLASE * /
+. format-class-10 { tamaño de fuente  : 30px;}
+# menu1 { color de fondo : negro; altura :  30 px ; ancho :  2100 px ; alineación de texto : centro; padding-top :  0 px ;}
+. format-class-2 { decoración de texto : ninguna; color : rgb ( 224 ,  216 ,  98 );}
+# format-nav { color de fondo : # 030327 ; display : inline-block;}
+# ul201 { radio del borde : 20 px ; borde : sólido blanco; ancho :  600 px ; altura :  600 px ; relleno :  17 px ; margen :  17 px ; tipo de estilo de lista : ninguno;}
+# ul202 { radio del borde : 20 px ; borde : sólido blanco; ancho :  600 px ; altura :  600 px ; relleno :  17 px ; margen :  17 px ; tipo de estilo de lista : ninguno;}
+# ul201-1 ,  # ul201-2 { ancho :  300 px ; tipo de estilo de lista : ninguno;}
+# ul202-1 ,  # ul202-2 { ancho :  250 px ; tipo de estilo de lista : ninguno;}
+. format-articule { tamaño de fuente :  30 px ; pantalla : inline-flex; color de fondo : negro; margen derecho :  15 px ; margen :  5 px  5 px ; relleno :  5 px  5 px ; borde : azul sólido; ancho :  400 px ; altura :  150 px ; radio del borde : 15 px ;}
+img { ancho :  120 px ; altura :  120 px ; borde :  rgb ( 153 ,  148 ,  148 );}
+# pagina1 { color : rgb ( 153 ,  148 ,  148 ); ancho :  250 px ;} / * #este simbolo es ID * /
+cuerpo { color de fondo :  # 030327 ; color :  rgb ( 224 ,  216 ,  98 ); archivo adjunto de fondo : fijo; imagen de fondo  :  "fondo_lila_seda.jpg" ; background-position :  derecha  centro ; padding - a p : 0px; padding - izquierda : 0px;}
+# format-titulos-texto { decoración de texto : subrayado; tamaño de fuente : pequeño; color : rojo;}
+# irinicio { color : blanco; margen :  30 px ;}
+# format-div-1  ,  # format-div-2 { relleno :  10 px ; margen :  30 px ; borde : sólido blanco; ancho : 400 px ;}
+# format-div-5 { margin-top :  700 px ;}
+# fondo-index { ancho :  35 % ; altura : 35 % ; margen izquierdo : 450 px ;}
+# bodyindex { background-color  :  black ; padding - to p : 0px; padding - left : 0px;}
