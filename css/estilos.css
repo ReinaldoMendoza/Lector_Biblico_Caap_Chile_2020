@@ -1,8 +1,7 @@
 * { familia de fuentes : sans-serif;}
-a { color : red;} / * esto cambia el color en los enlaces * /
-a : hover { text-decoration : underline; tamaño de fuente :  12 px ; color : verde;}
-a : hover { text-decoration : underline; tamaño de fuente :  15 px ; color : verde;}
-ul { relleno :  0  0 ; margen :  0  00 ; display : inline-flex;} / * esto quita los margenes interior y exterior de las listas ul * /
+a { color : red;} / * esto cambia el color en los enlaces *
+a: hover {text-decoration: underline; font-size: 15px; color: green;}
+ul {relleno: 0 0; margen: 0 00; display: inline-flex;} / * esto quita los margenes interior y exterior de las listas ul * /
 # li0 { fondo : blanco; color : negro; tipo de estilo de lista : ninguno; alineación de texto : centro; font-weight : más ligero; tamaño de fuente :  18 px ; ancho :  200 px ; margen superior :  0 px ;}
 # li10 : hover { color : red; }
 # li1 ,  # li2  ,  # li3  ,  # li4  ,  # li5 { padding-left :  50 px ; margen izquierdo :  50 px ; margen derecho :  30 px ; tipo de estilo de lista : ninguno; ancho :  155 px ; altura :  31 px ; borde izquierdo :  rgb ( 224 ,  216 ,  98 ) sólido;}
@@ -25,3 +24,7 @@ cuerpo { color de fondo :  # 030327 ; color :  rgb ( 224 ,  216 ,  98 ); archivo
 # format-div-5 { margin-top :  700 px ;}
 # fondo-index { ancho :  35 % ; altura : 35 % ; margen izquierdo : 450 px ;}
 # bodyindex { background-color  :  black ; padding - to p : 0px; padding - left : 0px;}
+# format-titulo-index { familia de fuentes :  'Times New Roman' , Times , serif; alinear texto : centro centro;}
+# ol77 { borde : verde sólido;}
+. format-text-libro { color : red;}
+# formato-ol-en-1 ,  # formato-ol-en-2 ,  # formato-ol-en-3 { ancho :  5 px ;}
