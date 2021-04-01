@@ -17,7 +17,7 @@ ul {relleno: 0 0; margen: 0 00; display: inline-flex;} / * esto quita los margen
 . format-articule { tamaño de fuente :  30 px ; pantalla : inline-flex; color de fondo : negro; margen derecho :  15 px ; margen :  5 px  5 px ; relleno :  5 px  5 px ; borde : azul sólido; ancho :  400 px ; altura :  150 px ; radio del borde : 15 px ;}
 img { ancho :  120 px ; altura :  120 px ; borde :  rgb ( 153 ,  148 ,  148 );}
 # pagina1 { color : rgb ( 153 ,  148 ,  148 ); ancho :  250 px ;} / * #este simbolo es ID * /
-cuerpo { background-color :  # 030327 ; color :  rgb ( 224 ,  216 ,  98 ); archivo adjunto de fondo : fijo; imagen de fondo  :  "fondo_lila_seda.jpg" ; background-position :  derecha  centro ; padding - a p : 0px; padding - izquierda : 0px;}
+body{ background-color :  # 030327 ; color :  rgb ( 224 ,  216 ,  98 ); archivo adjunto de fondo : fijo; imagen de fondo  :  "fondo_lila_seda.jpg" ; background-position :  derecha  centro ; padding - a p : 0px; padding - izquierda : 0px;}
 # format-titulos-texto { decoración de texto : subrayado; tamaño de fuente : pequeño; color : rojo;}
 # irinicio { color : blanco; margen :  30 px ;}
 # format-div-1  ,  # format-div-2 { relleno :  10 px ; margen :  30 px ; borde : solido blanco; ancho : 400 px ;}
