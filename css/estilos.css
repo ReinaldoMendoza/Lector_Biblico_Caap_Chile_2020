@@ -1,3 +1,5 @@
+* { familia de fuentes : sans-serif;}
 body {background-color : blue;}
 a { color : purple;} / * esto cambia el color en los enlaces *
 a: hover {text-decoration: underline; font-size: 15px; color: green;}
+ul {relleno: 0 0; margen: 0 00; display: inline-flex;} / * esto quita los margenes interior y exterior de las listas ul * /
