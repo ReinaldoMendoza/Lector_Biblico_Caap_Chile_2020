@@ -1,2 +1,3 @@
+* {background-color : blue;}
 a { color : red;} / * esto cambia el color en los enlaces *
 a: hover {text-decoration: underline; font-size: 15px; color: green;}
