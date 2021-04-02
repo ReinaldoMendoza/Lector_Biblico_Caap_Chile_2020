@@ -3,3 +3,4 @@ body {background-color : blue;}
 a { color : purple;} / * esto cambia el color en los enlaces *
 a: hover {text-decoration: underline; font-size: 15px; color: green;}
 ul {relleno: 0 0; margen: 0 00; display: inline-flex;} / * esto quita los margenes interior y exterior de las listas ul * /
+# li0 { fondo : blanco; color : negro; tipo de estilo de lista : ninguno; alineación de texto : centro; font-weight : mas ligero; tamaño de fuente :  18 px ; ancho :  200 px ; margen superior :  0 px ;}
