@@ -4,7 +4,7 @@ a { color : purple;} / * esto cambia el color en los enlaces *
 a: hover {text-decoration: underline; font-size: 15px; color: green;}
 ul {relleno: 0 0; margen: 0 00; display: inline-flex;} / * esto quita los margenes interior y exterior de las listas ul * /
 # li0 { fondo : blanco; color : negro; tipo de estilo de lista : ninguno; alineación de texto : centro; font-weight : mas ligero; tamaño de fuente :  18 px ; ancho :  200 px ; margen superior :  0 px ;}
-# li10 : hover { color : red; }
+# li10 : hover { color : blanco; }
 # li1 ,  # li2  ,  # li3  ,  # li4  ,  # li5 { padding-left :  50 px ; margen izquierdo :  50 px ; margen derecho :  30 px ; tipo de estilo de lista : ninguno; ancho :  255 px ; altura :  31 px ; borde izquierdo :  rgb ( 224 ,  216 ,  98 ) sólido;}
 # menu1 { color de fondo : negro; altura :  30 px ; ancho :  2100 px ; alineación de texto : centro; padding-top :  0 px ;}
 # format-nav { color de fondo : # 030327 ; display : inline-block;}
