@@ -1,8 +1,8 @@
 # menu1 ul li{ list-style-type: none; 
            display: inline-block ;
 }
-
+#body{background-color:black ; color:red;}
 #bodyindex{ background-color:black ; color:red;}
-body{background-color:black ; color:red;}
+
 a{text-decoration: none ; color: red;}
 
