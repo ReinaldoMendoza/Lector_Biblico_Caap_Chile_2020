@@ -1,0 +1,54 @@
+
+
+h1 {font-size: small;}
+
+#tithead {color: #A901DB; font-size: 30px;}
+
+#div1 { border: 2px solid blue;
+        -webkit-box-shadow: inset 0 0 0 5px rgba(163, 202, 221, 0.536);
+        -moz-box-shadow: inset 0 0 0 5px rgba(163, 219, 219, 0.536);
+        box-shadow: inset 0 0 0 5px rgba(163, 219, 219, 0.536);
+        width: 350px;
+        height: 200px;
+      }
+
+#lb1 , #lb2 { margin-top : 30px;  padding-top: 100px;
+            }
+
+#accesar {font-family:'Times New Roman', Times, serif;
+           font-size: 20px;
+           background-color: aqua;
+         }    
+
+            
+
+.par1 {color: #A901DB;
+       font-size: 20px;
+      }
+
+.usuario, .contraseña  {border-radius: 100px;
+                        border-color:blue;
+                        min-height:30px; /*esto es el alto */
+                        font-size: 30px;
+                        width: 300px; /*esto es el ancho */
+                        border-top-width: 1px;
+                        border-right-width: 1px;
+                        border-bottom-width: 1px;
+                        border-left-width: 2px;
+                        color:blue;
+                        margin: 10px 0px 0px 0px ;
+                 
+                    }
+
+
+.usuario:hover , .contraseña:hover {border-radius: 5px;
+                                    border-top-left-radius: 1px;
+                                    border-color:#A901DB;
+                                    color:blue;
+                                    background-color: aqua;
+                                   }
+.usuario:focus , .contraseña:focus {border-radius: 5px; 
+                                    border-color:#A901DB;
+                                   }
+#intNueva, #salir { background-color: red ;}
+
