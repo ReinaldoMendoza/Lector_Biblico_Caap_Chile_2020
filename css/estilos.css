@@ -1,0 +1,20 @@
+body {background-color: #D358F7 ;}
+
+*{  margin: 3px; padding: 3px;}
+
+a{color:red;}
+
+#ant {border: 2px solid grey;}
+
+#div0 {color:red; width:550px;  margin: 0px; padding: 0px;}
+
+#div1 , #div2, #div3, #div4 {border: 2px solid grey; color:red; width:120px;}
+
+ 
+#div6, #div7, #div8, #div9  { color: purple ; border: 2px solid grey ; width:125px;}
+
+#div5 {color: purple ; width:550px;  margin: 0px; padding: 0px;}
+
+#a1{color: purple ;}
+
+#txt1 {co
