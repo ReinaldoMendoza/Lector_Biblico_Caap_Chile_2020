@@ -16,6 +16,8 @@ h1 {font-size: small;}
 #lb1 , #lb2 { margin-top : 30px;  padding-top: 100px;
             }
 
+#imgerror { width: 150px;}
+
 #accesar {font-family:'Times New Roman', Times, serif;
            font-size: 20px;
            background-color: aqua;
