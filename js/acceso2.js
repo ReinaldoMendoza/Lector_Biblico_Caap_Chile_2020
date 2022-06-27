@@ -5,7 +5,10 @@ function acceso() {
     routeClose ="AccesoCaap.html";
     window.close(routeClose);
     routeOpen="G:/DD2T - REY/HTML_CAAP/Biblias en Texto/RV60/indiceReinaValera1960.html";
-    routeError ="https://github.com/ReinaldoMendoza/Lector_Biblico_Caap_Chile_2020/blob/master/html/error1.html";
+    
+    
+                 
+    routeError ="https://reinaldomendoza.github.io/Lector_Biblico_Caap_Chile_2020/html/error1.html";
 
     if (usuario=="Reinaldo Mendoza" && clave==7208 ){alert(mens1); window.open(routeOpen); window.close(routeClose);}
    
