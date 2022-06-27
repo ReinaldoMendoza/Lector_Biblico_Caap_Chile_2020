@@ -2,9 +2,9 @@ function acceso() {
     usuario = document.getElementById("usuario").value;
     clave = document.getElementById("clave").value;
     mens1 = "Estimado(a) " + usuario + " su acceso fue permitido";
-    routeClose ="AccesoCaap.html";
+    routeClose ="index.html";
     window.close(routeClose);
-    routeOpen="G:/DD2T - REY/HTML_CAAP/Biblias en Texto/RV60/indiceReinaValera1960.html";
+    routeOpen="https://reinaldomendoza.github.io/Lector_Biblico_Caap_Chile_2020/html/indiceReinaValera1960.html";
     
     
                  
@@ -24,7 +24,7 @@ function acceso() {
    
 
 
-   function intentarNuevamente() {window.open("G:/DD2T - REY/HTML_CAAP/Biblias en Texto/RV60/AccesoCaap.html", _self);}
+   function intentarNuevamente() {window.open("https://reinaldomendoza.github.io/Lector_Biblico_Caap_Chile_2020/index.html", _self);}
 
    
    
