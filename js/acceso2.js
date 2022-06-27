@@ -10,10 +10,10 @@ function acceso() {
                  
     routeError ="https://reinaldomendoza.github.io/Lector_Biblico_Caap_Chile_2020/html/error1.html";
 
-    if (usuario=="Reinaldo Mendoza" && clave==7208 ){alert(mens1); window.open(routeOpen, _self ); window.close(routeClose);}
+    if (usuario=="Reinaldo Mendoza" && clave==7208 ){alert(mens1); window.open(routeOpen); window.close(routeClose);}
    
    
-     else if (usuario=="Moises Saravia" && clave==1112){alert(mens1); window.open(routeOpen, _self); window.close(routeClose);}
+     else if (usuario=="Moises Saravia" && clave==1112){alert(mens1); window.open(routeOpen); window.close(routeClose);}
      else if (usuario=="Maria Inostroza" && clave==1520){alert(mens1); window.open(routeOpen); window.close(routeClose);}
      else if (usuario=="Visita"){alert(mens1); window.open(routeOpen); window.close(routeClose);}
      else {alert(usuario + " usted no tiene acceso o su clave es erronea!!"); window.open(routeError);}
@@ -24,7 +24,7 @@ function acceso() {
    
 
 
-   function intentarNuevamente() {window.open("https://reinaldomendoza.github.io/Lector_Biblico_Caap_Chile_2020/index.html", _self);}
+   function intentarNuevamente() {window.open("https://reinaldomendoza.github.io/Lector_Biblico_Caap_Chile_2020/index.html");}
 
    
    
