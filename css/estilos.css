@@ -4,7 +4,10 @@ body {background-color: #D358F7 ;}
 
 a{color:red;}
 
-li {width:10px; height:50px;}
+li, ul {width:10px; height:50px;
+display: flex;
+
+}
 
 #ant {border: 2px solid grey;}
 
