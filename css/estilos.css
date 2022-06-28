@@ -5,7 +5,7 @@ body {background-color: #D358F7 ;}
 a{color:red;}
 
 li, ul {width:10px; height:50px;
-display: flex;
+ float: left;
 
 }
 
