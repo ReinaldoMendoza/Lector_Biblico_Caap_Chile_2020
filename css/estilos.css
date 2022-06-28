@@ -5,8 +5,8 @@ body {background-color: #D358F7 ;}
 a{color:red;}
 
 li, ul {
- margin: 0px;
- padding: 0px;
+ margin: 5px;
+ padding: 5px;
  width:10px; height:50px;
  float: left;
 
