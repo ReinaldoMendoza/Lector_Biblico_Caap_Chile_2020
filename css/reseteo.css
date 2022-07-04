@@ -13,7 +13,7 @@ h1 {font-size: small;}
         height: 200px;
       }
 
-#lb1 , #lb2 { margin-top : 30px;  padding-top: 100px;
+#lb1 , #lb2 { margin-top : 30px;  padding-top: 100px; color: white;
             }
 
 #imgerror {  max-width: 70%;
