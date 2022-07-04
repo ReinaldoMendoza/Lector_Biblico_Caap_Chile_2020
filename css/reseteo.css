@@ -13,7 +13,7 @@ h1 {font-size: small;}
         height: 200px;
       }
 
-#lb1 , #lb2 { margin-top : 30px;  padding-top: 100px; color: white;
+#lb1 , #lb2 , lb3 { margin-top : 30px;  padding-top: 100px; color: white;
             }
 
 #imgerror {  max-width: 70%;
@@ -30,7 +30,7 @@ h1 {font-size: small;}
        font-size: 20px;
       }
 
-.usuario, .contraseña  {border-radius: 100px;
+.usuario, .contraseña , .mail {border-radius: 100px;
                         border-color:blue;
                         min-height:30px; /*esto es el alto */
                         font-size: 30px;
