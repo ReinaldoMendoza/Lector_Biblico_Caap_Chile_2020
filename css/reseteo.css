@@ -3,7 +3,7 @@ html {background-color: black;}
 
 h1 {font-size: small;}
 
-#tithead {color: #A901DB; font-size: 30px;}
+#tithead {color: white; font-size: 30px;}
 
 #div1 { border: 2px solid blue;
         -webkit-box-shadow: inset 0 0 0 5px rgba(163, 202, 221, 0.536);
