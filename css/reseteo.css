@@ -2,9 +2,7 @@ html {background-color: black;}
 
 body { width: 20rem; height: 30rem;}
 
-h1 {font-size: small;}
-
-h1 {
+h1 {font-size: small;
   text-align: center;
   margin: 35px 0 20px 0 !important;
 }
