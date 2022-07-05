@@ -1,3 +1,8 @@
+window.onload = function () {
+    document.getElementById("usuario").focus();
+}
+
+
 function acceso() {
     usuario = document.getElementById("usuario").value;
     clave = document.getElementById("clave").value;
