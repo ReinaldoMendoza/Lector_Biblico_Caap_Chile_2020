@@ -51,7 +51,7 @@ h1 {font-size: small;}
                                     color:blue;
                                     background-color: aqua;
                                    }
-.usuario:focus , .contraseña:focus, .mail:hover {border-radius: 5px; 
+.usuario:focus , .contraseña:focus, .mail:focus {border-radius: 5px; 
                                     border-color:#A901DB;
                                    }
 #intNueva, #salir { background-color: red ;}
