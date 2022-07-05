@@ -34,7 +34,7 @@ h1 {font-size: small;}
                         border-color:blue;
                         min-height:30px; /*esto es el alto */
                         font-size: 30px;
-                        width: 300px; /*esto es el ancho */
+                        width: 40rem; /*esto es el ancho */
                         border-top-width: 1px;
                         border-right-width: 1px;
                         border-bottom-width: 1px;
