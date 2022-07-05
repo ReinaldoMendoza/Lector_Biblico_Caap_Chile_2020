@@ -4,6 +4,13 @@ body { width: 20rem; height: 30rem;}
 
 h1 {font-size: small;}
 
+h1 {
+  text-align: center;
+  margin: 35px 0 20px 0 !important;
+}
+
+
+
 #tithead {color: white; font-size: 30px; width: 20rem;}
 
 #div1 { border: 2px solid blue;
