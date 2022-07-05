@@ -1,3 +1,3 @@
 window.onload = function () {
-    document.getElementById("usuario").focus();
+    document.LoginForm.usuario.focus();
 }
