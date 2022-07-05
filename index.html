@@ -19,11 +19,15 @@
   <div id="div1">
          <script src="js/focus.js"></script>
       
-      
-      <form name="LoginForm" action="">
-        <br><label id="lb1">NOMBRE COMPLETO:</label>
+
+      <form action="/action_page.php" name="LoginForm">
+      <br><label id="lb1">NOMBRE COMPLETO:</label>
         <br>
-        <input class="usuario" id="usuario">
+        <input type="text" name="firstname"><br>
+        <input type="text" name="lastname"><br><br>        
+          
+          
+          <input class="usuario" id="usuario">
         <br><br>
           
         <label id="lb2">TELEFONO:</label>    
@@ -38,20 +42,21 @@
           </center>
          <input type="button" id="accesar" value="ACEPTAR" onclick="acceso();"><br>
          <script src="js/acceso2.js"></script>
-                                                                              
-    </center>
 
+          
+    </center>
+  <input type="reset">
 
     </form>  
   </div>  
 ◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘    
-<form action="/action_page.php">
+
   Nombre:<br>
-  <input type="text" name="firstname"><br>
+ 
   Apellidos:<br>
-  <input type="text" name="lastname"><br><br>
+
   <input type="submit" value="Enviar">
-  <input type="reset">
+
 </form>
 
 
