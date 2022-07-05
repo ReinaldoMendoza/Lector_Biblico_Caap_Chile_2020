@@ -17,6 +17,8 @@ h1 {font-size: small;}
 #lb1 , #lb2 , #lb3 , #lb4 { margin-top : 30px;  padding-top: 100px; color: white;
             }
 
+#Form1{ width: 20rem;}
+
 #imgerror {  max-width: 70%;
  max-height: 70%;}
 
