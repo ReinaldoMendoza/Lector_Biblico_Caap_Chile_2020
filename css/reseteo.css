@@ -30,7 +30,7 @@ h1 {font-size: small;}
        font-size: 20px;
       }
 
-.usuario, .contraseña , .mail {border-radius: 100px;
+.usuario , .contraseña , .mail {border-radius: 100px;
                         border-color:blue;
                         min-height:30px; /*esto es el alto */
                         font-size: 30px;
@@ -45,7 +45,7 @@ h1 {font-size: small;}
                     }
 
 
-.usuario:hover , .contraseña:hover {border-radius: 5px;
+.usuario:hover , .contraseña:hover , .mail:hover {border-radius: 5px;
                                     border-top-left-radius: 1px;
                                     border-color:#A901DB;
                                     color:blue;
