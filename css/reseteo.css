@@ -7,6 +7,14 @@ h1 {font-size: small;
   margin: 35px 0 20px 0 !important;
 }
 
+.container {border: 2px solid blue;
+        -webkit-box-shadow: inset 0 0 0 5px rgba(163, 202, 221, 0.536);
+        -moz-box-shadow: inset 0 0 0 5px rgba(163, 219, 219, 0.536);
+        box-shadow: inset 0 0 0 5px rgba(163, 219, 219, 0.536);
+        width: 8rem;
+        height: 16rem;
+}
+
 
 
 #tithead {color: white; font-size: 30px; width: 20rem;}
